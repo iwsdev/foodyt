@@ -1,0 +1,2 @@
+
+<a href="javascript:void(0);" data-layout="button" onclick="window.open('https://www.facebook.com/sharer.php?u=http://www.queengastro.com/beta/cafe-product.html&summary=MySummary&title=MyTitle&description=MyDescription&picture=http://www.queengastro.com/beta/pub/media/catalog/product/cache/thumbnail/110x110/beff4985b56e3afdbeabfc89641a4582/i/m/images.jpeg','ventanacompartir', 'toolbar=0, status=0, width=650, height=450');"> Share</a>

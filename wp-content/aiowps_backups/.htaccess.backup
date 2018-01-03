@@ -1,0 +1,57 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^carta_foodytadministrator/?$ /wp-login.php [QSA,L]
+RewriteRule ^carta_foodytadministrator/register/?$ /wp-login.php?action=register [QSA,L]
+RewriteRule ^carta_foodytadministrator/lostpassword/?$ /wp-login.php?action=lostpassword [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+<ifmodule mod_deflate.c>
+<ifmodule mod_mime.c>
+Addtype font/opentype .otf
+Addtype font/eot .eot
+Addtype font/truetype .ttf
+</ifmodule>
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css   application/x-javascript application/javascript text/text font/opentype $
+</ifmodule>
+
+
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresByType image/jpg "access 2 month"
+ExpiresByType image/gif "access 2 month"
+ExpiresByType image/jpeg "access 2 month"
+ExpiresByType image/png "access 2 month"
+ExpiresByType text/css "access 2 month"
+ExpiresByType application/x-javascript "access plus 2 month"
+ExpiresByType text/javascript "access plus 2 month"
+ExpiresByType application/javascript "access plus 2 month"
+ExpiresByType image/x-icon "access plus 12 month"
+ExpiresByType image/icon "access plus 12 month"
+ExpiresByType application/x-ico "access plus 12 month"
+ExpiresByType application/ico "access plus 12 month"
+</IfModule>
+
+
+<FilesMatch "\.css$">
+#SetHandler application/x-httpd-php
+#Header set Content-type "text/css"
+</FilesMatch>
+
+<FilesMatch "\.js$">
+#SetHandler application/x-httpd-php
+#Header set Content-type "application/javascript"
+</FilesMatch>
+
+<Files xmlrpc.php>
+Order Deny,Allow
+Deny from all
+</Files>
+

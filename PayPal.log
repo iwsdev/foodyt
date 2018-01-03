@@ -1,0 +1,65 @@
+[02-01-2018 10:06:53] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 10:06:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 10:06:54] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 10:06:55] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-01-2018 10:06:55] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"VALIDATION_ERROR","details":[{"field":"start_date","issue":"Agreement start date is required, should be valid and greater than the current date. Should be consistent with ISO 8601 Format"}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"aeb43412af1c2"}
+[02-01-2018 10:12:25] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 10:12:26] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 10:12:26] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 10:12:28] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 10:12:28] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"b7093272e5a4b"}
+[02-01-2018 10:14:10] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 10:14:11] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 10:14:11] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 10:14:12] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 10:14:12] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"fb27ee024c086"}
+[02-01-2018 10:54:29] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 10:54:31] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 10:54:31] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 10:54:32] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 10:54:32] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"9239ef7a187d2"}
+[02-01-2018 11:13:16] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 11:13:17] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 11:13:17] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 11:13:19] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 11:13:19] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"db02e426c418e"}
+[02-01-2018 11:19:47] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 11:19:48] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 11:19:48] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 11:19:50] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 11:19:50] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"2561a19e99d85"}
+[02-01-2018 11:23:25] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 11:23:26] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 11:23:26] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 11:23:28] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 11:23:28] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"dad4274a831ea"}
+[02-01-2018 11:26:39] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 11:26:40] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 11:26:40] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 11:26:42] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 11:26:42] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"ec869a6cb47b1"}
+[02-01-2018 11:36:03] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 11:36:05] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 11:36:05] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 11:36:06] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-01-2018 11:36:06] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"VALIDATION_ERROR","details":[{"field":"start_date","issue":"Agreement start date is required, should be valid and greater than the current date. Should be consistent with ISO 8601 Format"}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"f6fa7f4df1e93"}
+[02-01-2018 11:37:52] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 11:37:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 11:37:54] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 11:37:55] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 11:37:55] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"57d0a39aa265"}
+[02-01-2018 12:21:24] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 12:21:25] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 12:21:25] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 12:21:27] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 12:21:27] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"c022514bad42b"}
+[02-01-2018 12:27:05] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 12:27:06] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 12:27:06] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 12:27:07] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 12:27:07] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"eb201b8734815"}
+[02-01-2018 12:39:30] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/oauth2/token
+[02-01-2018 12:39:31] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-01-2018 12:39:31] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.paypal.com/v1/payments/billing-agreements/
+[02-01-2018 12:39:33] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 500
+[02-01-2018 12:39:33] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 500 when accessing https://api.paypal.com/v1/payments/billing-agreements/. {"name":"INTERNAL_SERVICE_ERROR","details":[{"field":"internal_error","issue":"Internal error while creating agreement.Please contact administrator."}],"message":"An internal service error occurred.","information_link":"https://developer.paypal.com/docs/api/payments.billing-agreements#errors","debug_id":"8e30a27a9c9c5"}

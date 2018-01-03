@@ -1,0 +1,683 @@
+a:focus{outline:0px !important}
+
+button.update_plan{padding: 10px 10px; text-align: center;text-transform: uppercase; background: #f39500;border-radius: 5px;  text-decoration: none; font-size: 15px; font-family: 'gotham_mediumregular'; float: left; color: #2c2c2c; border-radius: 5px; background: #fcfcfc;
+    background: -moz-linear-gradient(top, #fcfcfc 0%, #eaeaea 100%);
+    background: -webkit-linear-gradient(top, #fcfcfc 0%,#eaeaea 100%);
+    background: linear-gradient(to bottom, #fcfcfc 0%,#eaeaea 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#eaeaea',GradientType=0 );
+    border: 1px solid #d6d6d6;}
+	a.close-thisform{height: 30px; width: 30px; border: 2px solid #000;text-align: center; font-size: 24px;  line-height: 26px; color: #000; border-radius: 100%;}
+	.btn{white-space:normal;}
+	#help .tabs .panel-default>.panel-heading{position:relative;}
+	#help .tabs .panel-default>.panel-heading i#iconId{position:absolute; top:12px;right:5px; }
+	#s_detail_header a.logo{float: left;width: 300px; height:60px}
+	#s_detail_header a.logo img{max-width:100%; width:auto !important; height:100%}
+	.tooltip.top{margin-top:-6px !important}
+	
+@media only screen and (max-width:1440px){
+	section#cdm .headings h2{font-size:45px;}
+	html.translated-ltr footer .middle-part p, html.translated-ltr footer .right-part ul li a{font-size:12px}
+	html.translated-ltr section#home .inner-cell .headings h2{font-size:52px;}
+	html.translated-ltr section#cdm .headings a.btn{font-size:28px; padding:10px 30px;}
+	html.translated-ltr .recieve-form .wrap{width:100%;}
+	html.translated-ltr .digital_menu_form2 .becon div.price{font-size:13px; margin-top:5px;}
+	
+	#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:365px; height:365px;}
+	
+	
+
+	
+}	
+	
+@media only screen and (max-width:1400px){
+	section#home .inner-cell .headings h2{font-size:55px;}
+	section#home .inner-cell .headings h2 span:first-child::before{padding:2px 28px;}
+	section#home  .icons li a{width:95px; height:95px;}
+	section#cdm .headings{margin-top:0px}
+	section#cdm .headings h2{font-size:41px;}
+	section#cdm .headings a.btn{padding:10px 40px; font-size:32px;}
+	section#cdm .video-section iframe{height:350px !important;}
+	#my-account .account-menu ul{width:100%;}
+	#my-account .account-menu ul li a{font-size:17px;}
+	/* .searchList .dish ul li .desc{margin-top:10px; width:80%;} */
+	#sBanner{height:400px; min-height:400px; background-position:center center !important; background-size:cover !important}
+	.digital_menu_form2 .expiry .cvv{width:135px; padding:11px 5px; }
+	.modal-dialog{margin-top:0; top:20%;}
+	#masthead #nav ul li{margin:5px 8px}
+	
+	
+	html.translated-ltr #masthead #nav ul li{margin:5px 10px;}
+	html.translated-ltr .col-md-4.social-links{width:23%;}
+	html.translated-ltr footer .col-md-4.middle-part{width:37%;}
+	html.translated-ltr footer .col-md-4.right-part{width:40%;}
+	html.translated-ltr section#cdm .headings h2{font-size:40px; line-height:55px;}
+	html.translated-ltr section#cdm .headings a.btn{font-size:25px; padding:10px 30px}
+	html.translated-ltr .becon .title{font-size:16px;}
+	html.translated-ltr section#home .inner-cell .headings h2{font-size:45px;}
+	
+	/* 23 MArch */
+	footer .wrap .left-part{width:25%}
+	footer .wrap .middle-part{width:30%; margin-left:70px;}
+	footer .wrap .right-part{width:38%; float:right}
+	#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:342px; height:342px}
+	
+	
+}
+@media only screen and (max-width:1360px){
+
+
+ #entrantes .food-gallery ul li{margin-bottom:60px;}	
+}
+@media only screen and (max-width:1024px){
+#masthead #nav ul li{margin:5px 10px}
+#masthead #nav ul li a{font-size:14px !important;}
+p.w_admin a, .sticky p.w_admin a{font-size:14px}
+section#home .inner-cell .headings h2{font-size:42px;}
+section#cdm .headings h2{font-size:33px; line-height:40px;}
+section#cdm .headings a.btn{font-size:25px; padding:10px 40px;}
+section#cdm .video-section iframe{height:300px !important; }
+.digital_menu_form2 textarea.form-control{height:48px !important; }
+
+button.ui-multiselect{height:50px;}
+
+.centerImg img{height:100%; width:120px;}
+.imgData{margin-bottom:15px;}
+.recieve-form .wrap{width:100%;}
+
+.digital_menu_form2 .form-group label.checkbox-inline span, .digital_menu_form2 .becon  label.checkbox-inline span{padding-right: 10px; padding-left: 6px;line-height: 28px; font-size:13px;}
+.digital_menu_form2 .form-group label.checkbox-inline input, .digital_menu_form2 .becon  label.checkbox-inline span{height:20px; width:20px;}
+.becon .title{min-height:45px; font-size:15px; }
+.digital_menu_form2 .recieve-form .wrap p{font-size:24px;}
+#createNow{font-size:17px;}
+#createNow{font-size:30px;}
+.contact .address, .contact .contact-number, .contact .contact-number, .contact .contact-number a{font-size:17px;}
+.contact_form input[type="text"], .contact_form input[type="email"]{padding:7px 10px;}
+.contact_form textarea{height:150px;}
+.contact iframe{width:100% !important}
+h4.panel-title{font-size:17px;}
+.panel-default>.panel-heading+.panel-collapse>.panel-body{font-size:15px;}
+#login .login-form label{font-size:21px;}
+#login .login-form input{padding:15px}
+#rememberme{width:15px !important; height:15px;}
+#login .login-form input[type="submit"]{padding:10px 40px;}
+#my-account .account-menu h3, #my-account.manageResturant .account-details h3{font-size:24px;}
+#my-account .account-menu ul li a{font-size:15px;}
+#my-account .account-menu ul li a:before{top:-2px;}
+#my-account .account-details a.add-dish{padding:7px 20px;}
+#my-account .account-details h3{font-size:24px;}
+.manageResturantmenu .add-cat h4, .manageResturantmenu .add-cat .wrapped .food_section label{font-size:20px !important;}
+#my-account .account-details .wrapped input[type="submit"]{padding:13px 30px;}
+.logincredential .login-area h2{font-size:24px;}
+#my-account.manageplan .account-details .menu .description .buttons a.cancel_subscription{font-size:15px;}
+#search-result .search-sidebar .sidebar-wrap .wrap.location ul li select{font-size:24px;}
+#search-result .search-listing .description .title h4 span{font-size:19px;}
+#search-result .search-listing .description p{font-size:17px;}
+#help h3.title, #search-result h3{font-size:24px;}
+/* footer .wrap .left-part{width:20%;}
+footer .wrap .middle-part{width:35%;}
+footer .wrap .right-part{width:38%;} */
+
+#sBanner{height:70vh; background-size:cover !important; background-position:top center !important}
+/* .searchList .dish ul li .desc{width:80%; margin-top:10px} */
+#top .strip  span.light-orange{font-size:13px; }
+	#top .strip  .loc{font-size:13px; }
+.toggleMenu { border-radius: 5px; background: #67b024; float: right; margin-top: 10px;}
+	.toggleMenu span{background: #fff none repeat scroll 0 0; display: block; height: 3px; margin: 3px 0; width: 20px;}
+	
+	
+
+	
+	.switcher{margin-right:15px;}
+	#masthead #nav ul li.myAccount{margin-right:0}
+	nav#nav{display:block}
+section#home .inner-cell .headings h2 span:first-child::before{padding:2px 21px;}	
+
+html.translated-ltr section#home .inner-cell .headings h2{font-size:40px;}
+html.translated-ltr .col-md-4.social-links{width:33.33%;}
+	html.translated-ltr footer .col-md-4.middle-part{width:33.33%;}
+	html.translated-ltr footer .col-md-4.right-part{width:33.33%;}
+	html.translated-ltr footer .middle-part p, html.translated-ltr footer .right-part ul li a{font-size:12px; line-height:20px;}
+	html.translated-ltr section#cdm .headings h2{font-size:37px; line-height:50px;}
+	html.translated-ltr section#cdm .headings a.btn{font-size:20px;}
+	html.translated-ltr .becon .pop{margin-bottom:25px; width:50%;}
+	.digital_menu_form2 .expiry select{width:140px;}
+	
+/* MENU */	
+
+.menu-header-menu-container{margin-bottom: 10px; margin-top: 5px;width: 100%;}
+	#masthead #nav ul li{float:left; width:100%; margin:0; padding:0; border-bottom:1px solid #f39500}
+	#masthead #nav ul li a{margin:0; padding:10px 10px}
+	#masthead #nav ul li.myAccount a, #masthead #nav ul li.logout a, #masthead #nav ul li.login a{background:transparent !important; margin:0 !important; padding:10px 10px !important; border:0px; text-align:center }
+	#masthead #nav  ul#primary_menu > li#menu-item-316 a, #masthead #nav  ul#primary_menu > li#menu-item-357 a{background:transparent !important; border:0px; text-align:left; }
+	
+	#masthead #nav ul li.myAccount a{background:#67b024 !important; border-radius:0; text-align:left}
+	header#masthead.sticky #nav ul li a{color:#2c2c2c !important;}
+	header#masthead.sticky #nav ul li a:hover, #masthead.sticky #nav ul li.current-menu-item a{color:#fff !important; }
+	header#masthead.sticky #nav ul li.myAccount a{color:#fff;background:#67b024}
+	section.fheight{padding-top:120px !important; padding-bottom:40px;}
+	#masthead #nav ul li a:hover, #masthead #nav ul li.current-menu-item a{background:#f39500 !important; color:#fff;}
+	.site-content{min-height:inherit;}
+	
+	#masthead #nav ul{background:#fff;}
+	.page-template-temp-home #masthead #nav ul li a, .page-template-create_digital_menu1 #masthead #nav ul li a, .page-template-temp-login header#masthead #nav ul li a, #masthead #nav  ul#primary_menu > li#menu-item-316 a, #masthead #nav  ul#primary_menu > li#menu-item-357 a{color:#000;}
+	.page-template-temp-home #masthead #nav ul li a, .page-template-create_digital_menu1 #masthead #nav ul li a, .page-template-temp-login header#masthead #nav ul li a, #masthead #nav  ul#primary_menu > li#menu-item-316 a, #masthead #nav  ul#primary_menu > li#menu-item-357 a{color:#000 !important; text-align:left !important}
+	#masthead #nav ul li a:hover, #masthead #nav ul li.current-menu-item a, #masthead #nav  ul#primary_menu > li#menu-item-316 a:hover, #masthead #nav  ul#primary_menu > li#menu-item-357 a:hover{color:#fff !important; background:#f39500 !important; border-radius:0}
+	#masthead #nav ul#primary_menu > li#menu-item-316 a{border-radius:0}
+	#masthead #nav ul#primary_menu > li#menu-item-316.current-menu-item a{background:#f39500 !important; color:#fff !important}
+	header#masthead.sticky #nav ul li.myAccount{border-bottom:0}
+	header#masthead.sticky #nav ul li.myAccount a{color:#fff !important; border-radius:0px; text-align:left}
+	#masthead #nav ul li a:hover, #masthead #nav ul li.current-menu-item a{padding-bottom:10px; border-bottom:0px solid #f39400}
+	#masthead #nav ul li.myAccount{border-bottom:0px}
+	#masthead #nav{width:100%; float:left}
+	#masthead #nav ul{width:100%; float:left}
+	
+
+	/*  23- MARCH */
+	
+	#home-middle-part .left ul li, #home-middle-part .right ul li{min-height:260px;}
+	footer .wrap .left-part{width:20%}
+	footer .wrap .middle-part{width:35%; margin-left:0px;}
+	footer .wrap .right-part{width:45%; float:right}
+	#masthead #nav  ul#primary_menu > li#menu-item-1018 a, #masthead #nav  ul#primary_menu > li#menu-item-1028 a{    color: #fff;
+    
+    border-radius: 0px;  
+    text-align: left !important;
+ }
+
+ /* Single Page */
+ 
+ /* #header .l-name{font-size:35px; line-height:40px;}
+ #header .headerRight{width: calc(100% - 180px);}
+ .headerContact ul li{width:100%; margin-bottom:25px; margin-right:0}
+ .headerContact ul li:first-child{margin-right:0}
+ .headerContact ul li a{padding-left:0px; font-size:25px; line-height:30px; padding-left:104px }
+ .headerContact ul li:first-child a:before, .headerContact ul li:last-child a:before{margin-left:-60px; left:auto;}
+ #entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure{height:300px}
+ .lag-switcher .switcher{margin-right:0}
+ .modal-body .food-detail .pr .right{width:150px}
+ .modal-body .food-detail .pr .left{width: calc(100% - 175px);} */
+ 
+ .star-ratings-sprite{background-size:40px !important; width:200px !important; height:40px !important; margin-top:13px !important;}
+ .star-ratings-sprite-rating{background-size:40px!important; height:40px!important;}
+ 
+ 
+ .rating-static{    background-size: 360px !important; width: 180px !important; height: 32px !important;}
+ .rating-50 { background-position: 0px 0 !important;}
+ .rating-40 { background-position: -35px 0 !important;}
+ .rating-30{background-position: -70px 0 !important;}
+ .rating-20 { background-position: -108px 0 !important;}
+ .rating-10 { background-position: -145px 0 !important;}
+ 
+ .comment_form .stars label{width:30px; height:30px;}
+ .comment_form .stars{background-size:30px; width:150px; height:30px;}
+ .msg-area form .fooBar .left{margin-top:4px}
+ .modal-content button.close{top:5px;  font-family: 'Raleway', sans-serif; font-weight: 400; font-size:30px;}
+ #category .modal-content button.close{    font-family: 'Raleway', sans-serif; font-weight: 400; font-size:45px; line-height:0}
+ 
+ #entrantes .food-gallery ul li{margin-bottom:20px; margin-right:20px}
+	#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:295px; height:295px; }
+
+}
+@media only screen and (min-width:993px){#menu .lang-switcher{display:block !important} .search-res{display:block !important}}
+@media only screen and (max-width:992px){
+	#blackLogo, #whiteLogo{max-width:150px; margin-top:8px;}
+	#masthead #nav ul li{margin:5px 6px;}
+	.logout a{padding:9px 10px;}
+
+	#masthead #nav ul li a, p.w_admin a, .sticky p.w_admin a{font-size:12px !important;}
+	section#home .inner-cell .headings h2 span:first-child::before{padding:2px 21px;}
+	p.w_admin{padding-top:19px !important;}
+	section#home .search input[type="search"]{padding:20px 10px}
+	section#home .search .fa-search{top:24px;}
+	#help .faq-search{width:100%;}
+	#search-result h3, #help h3.title{font-size:22px;}
+	h4.panel-title{font-size:15px;}
+	.panel-default>.panel-heading+.panel-collapse>.panel-body{font-size:14px; line-height:23px;}
+	.contact .address, .contact .contact-number, .contact .contact-number, .contact .contact-number a{font-size:15px;}
+	.contact_form label{font-size:15px;}
+	.contact_form input[type="submit"]{font-size:18px; padding:9px 20px;}
+	#my-account .account-menu h3, #my-account.manageResturant .account-details h3{font-size:22px;}
+	#my-account .account-details a.add-dish{margin:8px 0}
+	#my-account .account-details .wrapped input[type="text"], #my-account .account-details .wrapped textarea, #my-account .account-details .wrapped select{padding:7px 10px;}
+	.manageResturantmenu .add-cat .wrapped .food_section select{height:37px}
+	#my-account.manageResturantmenu  .account-details table tr td a.remove{height:38px; font-size:22px;}
+	.manageResturantmenu .add-cat h4, .manageResturantmenu .add-cat .wrapped .food_section label, #my-account .account-details .wrapped label{font-size:17px !important;}
+	#my-account .account-details .wrapped input[type="submit"]{padding:10px 30px; font-size:17px;}
+	button.add_another{font-size:15px; padding:7px 15px}
+	button.ui-multiselect{height:37px; line-height:13px; font-weight:300; font-size:15px}
+	.imgData img{max-width:100% !important; height:auto !important;}#my-account.manageplan .account-details .menu .description .title h4{font-size:17px;}
+	 #my-account.manageplan .account-details .menu .description.ano .title h4{font-size:17px;}
+	 #my-account.manageplan .account-details .menu .description .checkbox label{font-size:15px;}
+	 #my-account.manageplan .account-details .menu .description.ano .checkbox span{font-size:14px;}
+	 #search-result .search-listing .description{width:76%;}
+	 
+	 section#cdm .headings h2{font-size:25px; line-height:34px;}
+	 section#cdm .headings a.btn{font-size:20px; padding:10px 20px;}
+	section#cdm .video-section iframe{height:260px;}
+	.digital_menu_form2 .form-group label{margin: 10px 0 5px;}
+	.row.becon .pop{width:100%; float:left; max-width:100%; margin:0px 0px 15px;}
+	.row.becon .pop .title{float:left; width:100%; min-height:inherit;}
+	.digital_menu_form2 .becon  label.checkbox-inline input{width:20px; height:20px;}
+	button.update_plan{float:left; width:100%; margin-bottom:20px;}
+	#my-account.manageplan .account-details .menu .description .buttons a.cancel_subscription{float:left; width:100%;}
+	#my-account .account-details .menu .description{width:74%;}
+	#my-account .account-details .menu .description .title h4{float:left; width:100%;}
+	#my-account .account-details .menu .description .title .btn{float:left; width:100%; text-align:left;}
+	#my-account .account-details .menu .description .title .btn a{font-size:14px;}#my-account .account-details .menu .description p{font-size:17px;}
+	#my-account .account-details .menu .description .title .btn a.del:before, #my-account .account-details .menu .description .title .btn a.edit:before{font-size:15px;}
+	#masthead #nav ul li{margin:5px 4px;}
+	#masthead #nav ul li.myAccount a, .logout a{padding:9px 10px;}
+.strip .loc{text-align:center}	
+/* .searchList .dish ul li .desc{width:82%; margin-top:10px} */
+	
+	.mm-opened .toggledMenu { display: none;}
+.mm-opened .crossedIcon{display:block; cursor:pointer; position:absolute; top:5px; left:5px;}
+	a.toggledMenu{display:block; margin-top:5px;}
+	#menu .lang-switcher{display:none}
+	.modal-dialog{top:200px;}
+	#top{display:none}
+	#s_detail_header{position:fixed; top:0; background:#fff;}
+	#s_detail_header a.toggledMenu span{background:#000}
+	#s_detail_header a.logo{float: left;width: 250px; height:40px}
+	#s_detail_header a.logo img{max-width:100%; width:auto !important; height:100%}
+	.page-template-search-detail .logo img{height:100%; width:auto !important; }
+	#my-account.manageResturantmenu  .account-details table tr td input{padding:6px 10px;}
+	#my-account.manageResturantmenu  .account-details table tr td a.remove{height:35px;}
+	#help h3.title{margin-bottom:15px;}
+	html.translated-ltr section#cdm .headings h2{font-size:28px; line-height:40px;}
+	html.translated-ltr section#cdm .headings a.btn{font-size:15px;}
+	html.translated-ltr section#cdm .headings{margin-top:20px;}
+	html.translated-ltr .becon .pop{width:100%;}
+	.digital_menu_form2 .right{width:100%; float:left;}
+	.digital_menu_form2 .expiry select{width:200px}
+	#my-account .account-details h3,.logincredential .login-area h2{font-size:22px;}
+	
+	
+	
+	
+	
+	
+	
+	/* 23 March */
+	
+	#home-middle-part .left ul li, #home-middle-part .right ul li{min-height:inherit; width:100%; margin:0}
+
+	footer .wrap .left-part{width:100%; text-align:center; margin-bottom:10px;}
+	footer .wrap .middle-part{width:100%; margin-left:0px;text-align:center}
+	footer .wrap .right-part{width:100%; float:right;text-align:center}
+	.search-res, #menu-sidebar-menu{display:none}
+	.serach-ham, .serach-ham1{display:block}
+	.toggleSearch {     border-radius: 5px;
+    background: #67b024;
+    float: right;
+    /* margin-top: 10px; */
+    margin-left: 15px;
+    margin-top: -7px;}
+	.toggleSearch span{background: #fff none repeat scroll 0 0; display: block; height: 3px; margin: 3px 0; width: 20px;}
+	
+	.toggleSearch1 {     border-radius: 5px;
+    background: #67b024;
+    float: right;
+    /* margin-top: 10px; */
+    margin-left: 15px;
+    margin-top: -7px;}
+	.toggleSearch1 span{background: #fff none repeat scroll 0 0; display: block; height: 3px; margin: 3px 0; width: 20px;}
+	
+	#search-result .search-sidebar .sidebar-wrap{margin-bottom:20px;}
+	/* 23 MArch */
+	
+	
+	
+	/*#header .logo a{height: 140px; width: 150px;}*/
+	#header .headerRight {width: calc(100% - 160px);}
+	#navbar .cat a{font-size:28px}
+	#navbar .cat a:before{width:28px;height:32px; margin-top:-16px}
+	#navbar .main-logo{width:180px}
+	#navbar .switcher > ul >  li{padding:0px 5px}
+	#entrantes h3{font-size:24px}
+	#navbar .container{padding-bottom:10px}
+	#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:215px; height:215px; object-position: center center;  object-fit: cover;}
+	
+	#entrantes .food-gallery ul li h3{font-size:25px; line-height:30px}
+	.modal-head h3{font-size:26px; line-height:35px;}
+	.modal-head span{font-size:20px; line-height:25px}
+	.modal-body .food-detail p, .modal-body .food-detail .pr .left ul li{font-size:19px; line-height:25px}
+	.modal-body .msg-area .write-icon img{max-width:60px}
+	.modal-body .msg-area .write-icon1 img{max-width:60px}
+	.comment-box .right div.title{font-size:20px; line-height:25px;}
+	.comment-box .right div.title span{font-size:15px; }
+	.comment-box .left h3, .comment-box .right .desc{font-size:15px}
+	.comment-box .right .desc{padding-top:15px}
+	.comment-box .left figure{margin: 0 auto; width:70px; height:35px}
+	.comment-box .right div.title span{display:none}
+	.headerContact ul li a{padding-left:60px}
+	.headerContact ul li{margin-bottom:10px}
+	.headerContact ul li:first-child a:before{margin-top:-5px}
+	.l-img p, .left h3{    word-break: inherit !important; }
+	.add-list{float:none; margin-top:20px;}
+	.fact{margin-bottom:1em!important;}
+	.fact div{margin-bottom:20px;}
+	.fact b{margin-bottom:5px;}
+	.fact-responsive-table{margin-bottom:3em;}
+}
+@media only screen and (max-width:800px){
+	.fact-table th, .fact-table td{padding:10px;}
+	.fact-table th{white-space:nowrap;}
+}
+@media only screen and (max-width:768px){
+	#beconModal .modal-content button, #photographModal .modal-content button, .modal-content button.close{display:block!important;}
+	.modal .close-btn .close{display:none!important;}
+}
+@media only screen and (max-width:767px){
+	#menu-item-374 a{border-bottom:0px !important}
+	footer .wrap > div{text-align:center; margin:7px 0}
+	#mobileNav ul li:first-child::before{margin-top:-10px}
+	section#home  .icons li{margin:20px 10px 20px}
+	section#home  .icons li a{width:60px; height:60px;background-size:28px !important}
+
+	section#home .inner-cell .headings h2{font-size:27px;}
+	section#home .inner-cell .headings h2 span:first-child::before{padding:6px 14px;}
+	#help h3.title{padding-bottom:15px;}
+	#my-account .account-details a.add-dish{float:left; margin-bottom:10px;}
+	.inner-cell .text-left{padding-bottom:15px;}
+	section#cdm{padding-bottom:30px;}
+	#createNow{display:inline-block; margin-top:5px; padding:15px 28px !important; font-size:15px !important;}
+	#search-result .search-listing figure{width:100%;}
+	#search-result .search-listing .description{width:100%; margin-top:10px; text-align:center}
+	#search-result .search-listing .description .title h4,#search-result .search-listing .description .title h4 a{width:100%;}
+	footer .wrap > div{margin:5px 0}
+	footer .right-part ul li a, footer .middle-part p{font-size:13px; margin-bottom:0}
+	#my-account.manageResturantmenu  .account-details .wrapped textarea.s_description{height:170px !important;}
+	#search-result .search-listing .description p{font-size:15px;}
+	.imgInp{margin-top:20px;}
+	a.close-thisform{height:25px; width:25px; line-height:22px;}
+	.modal-content button.close{height:30px; width:30px; top:15px;}
+	#category .modal-content button.close{    font-family: 'Raleway', sans-serif; font-weight: 400; font-size:45px; line-height:0}
+	input[type=file]{width:100%}
+	#my-account.manageplan .account-details .menu .description.ano .title h4 span{font-size:17px;}
+	#my-account.manageplan .account-details .menu .description.total .title h4, #my-account.manageplan .account-details .menu .description.total .title h4 span{font-size:22px;}
+	#login .login-form label{font-size:17px}
+	#login .login-form a{margin-top:30px; float:left; font-size:17px; margin-bottom:15px; width:100%;}
+	.digital_menu_form2 h3{font-size:20px;}
+	.digital_menu_form2 .form-group label{font-size:17px;}
+	.payment_method{}
+	.digital_menu_form2 .left, .digital_menu_form2 .right{float:left; width:100%;}
+	.digital_menu_form2 .expiry select{width:110px;}
+	.cvv{width:62px !important; height:44px !important;}
+	.digital_menu_form2 .right .order-summary h4{font-size:20px;}
+	.digital_menu_form2 .right .order-summary ul li{font-size:17px;}
+	.contact h3{font-size:30px;}
+	.recieve-form1 .wrap p,.digital_menu_form2 .recieve-form .wrap p{font-size:20px;}
+	.contact .contact-number:before{background-size:100%; height:18px; width:18px; top:2px;}
+	.contact .address:before{background-size:100%; height:18px; width:13px; top:5px;}
+	.manageplan .menu figure{float:left; width:100%; margin-bottom:7px;}
+	.manageplan .menu .description{float:left; width:100%; text-align:center}
+	.manageplan .menu .description .title{width:100%; text-align:center; float:left;}
+	.manageplan .menu .description .h6, .manageplan .menu .description  p{text-align:center; width:100%; float:left;}
+	#masthead #nav{float:left; width:100%; margin-top:5px;}
+	#masthead #nav ul{margin:0; padding:0; width:100%;}
+	#my-account .account-details .menu .description{width:100%; text-align:center}
+	#my-account .account-details  .menu figure{width:100%; float:left; margin-bottom:10px;}
+	#my-account .account-details .menu .description .title .btn{text-align:center; margin:10px 0}
+	
+	
+	.menu-header-menu-container{margin-bottom: 10px; margin-top: 5px;width: 100%;}
+	#masthead #nav ul li{float:left; width:100%; margin:0; padding:0; border-bottom:1px solid #f39500}
+	#masthead #nav ul li a{margin:0; padding:10px 10px}
+	#masthead #nav ul li.myAccount a, #masthead #nav ul li.logout a, #masthead #nav ul li.login a{background:transparent !important; margin:0 !important; padding:10px 10px !important; border:0px; text-align:center }
+	#masthead #nav  ul#primary_menu > li#menu-item-316 a, #masthead #nav  ul#primary_menu > li#menu-item-357 a{background:transparent !important; border:0px; text-align:left; }
+	
+	#masthead #nav ul li.myAccount a{background:#67b024 !important; border-radius:0; text-align:left}
+	header#masthead.sticky #nav ul li a{color:#2c2c2c !important;}
+	header#masthead.sticky #nav ul li a:hover, #masthead.sticky #nav ul li.current-menu-item a{color:#fff !important; }
+	header#masthead.sticky #nav ul li.myAccount a{color:#fff;background:#67b024}
+	section.fheight{padding-top:100px !important; padding-bottom:40px;}
+	#masthead #nav ul li a:hover, #masthead #nav ul li.current-menu-item a{background:#f39500 !important; color:#fff;}
+	.site-content{min-height:inherit;}
+	
+	#masthead #nav ul{background:#fff;}
+	.page-template-temp-home #masthead #nav ul li a, .page-template-create_digital_menu1 #masthead #nav ul li a, .page-template-temp-login header#masthead #nav ul li a, #masthead #nav  ul#primary_menu > li#menu-item-316 a, #masthead #nav  ul#primary_menu > li#menu-item-357 a{color:#000;}
+	.page-template-temp-home #masthead #nav ul li a, .page-template-create_digital_menu1 #masthead #nav ul li a, .page-template-temp-login header#masthead #nav ul li a, #masthead #nav  ul#primary_menu > li#menu-item-316 a, #masthead #nav  ul#primary_menu > li#menu-item-357 a{color:#000 !important; text-align:left !important}
+	#masthead #nav ul li a:hover, #masthead #nav ul li.current-menu-item a, #masthead #nav  ul#primary_menu > li#menu-item-316 a:hover, #masthead #nav  ul#primary_menu > li#menu-item-357 a:hover{color:#fff !important; background:#f39500 !important; border-radius:0}
+	#masthead #nav ul#primary_menu > li#menu-item-316 a{border-radius:0}
+	#masthead #nav ul#primary_menu > li#menu-item-316.current-menu-item a{background:#f39500 !important; color:#fff !important}
+	header#masthead.sticky #nav ul li.myAccount{border-bottom:0}
+	header#masthead.sticky #nav ul li.myAccount a{color:#fff !important; border-radius:0px; text-align:left}
+	section#cdm .headings a.btn{margin-top:0}
+	section#cdm .headings{margin-top:10px;}
+	
+	.searchList .dish h2{font-size:22px;}
+	.searchList .dish ul li .desc  h5.menu_post{margin-top:0; }
+	/* .searchList .dish ul li div.figure{height:100px; text-align:center; max-width:100%;  float:none; display:block; margin:0 auto;} */
+	 .menu_post .menu_title, .menu_post .menu_price{top:0}
+	 .menu_post .menu_title{display:block; width:130px;}
+	/* h5.menu_post.image{margin-left:0; width:100%;}
+	 .searchList .dish ul li div.figure img{max-width:100%; height:100%; width:100%;} */
+	/* .searchList .dish ul li .desc{margin-top:10px; width:100%;max-width:100%; height:auto}  */
+	#sBanner{max-height:350px; min-height:inherit; }
+	.ppb_title_first{font-size:50px;}
+	#sBanner h1.withtopbar{font-size:40px; line-height:15px; bottom:15px}
+	/* footer .left-part ul li{line-height:35px;} */
+	
+	#my-account .account-menu h3{padding:0px 0px 10px; margin:5px 0px 10px;}
+	#my-account.manageResturant .account-details h3{padding:10px 0px 0px;}
+	#my-account .account-details a.add-dish{margin-bottom:20px;}
+	.imgData{float:left; width:100%;}
+	.form-group{float:left; width:100%}
+	.modal-dialog{top:130px}
+	#my-account.manageResturantmenu  .account-details .wrapped input[type="submit"]{display:block; float:none; margin:25px auto 5px;}
+	.manageResturantmenu .add-cat .wrapped .food_section{padding-bottom:15px}
+	#beconModal .modal-body p, #monthlyReportModal  .modal-body p, #photographModal  .modal-body p{font-size:17px;}
+	#photographModal  .modal-body .grey-bg{padding:10px 0;}
+	#top .strip .text-left{text-align:center; padding:5px 0; border-bottom:1px solid #f59806}
+	 #top .strip .text-right{text-align:center; padding:5px 0}
+	 .page-template-search-detail .logo img{width:auto !important; max-width:170px;}
+	 .digital_menu_form2 .form-control{ box-shadow:none !important;-webkit-box-shadow:none !important}
+	 .digital_menu_form2 .form-control{padding:14px 10px;}
+	 /*.Ticon{margin-left:0}
+	  .digital_menu_form2 .expiry select{width:150px;} */
+	 .digital_menu_form2 textarea.form-control{height:auto !important}
+	.switcher ul li{margin:0 1px}.close{    position: fixed;
+    right: -10px;
+    top: -10px;}
+	.switcher {margin-right:5px;}
+	.digital_menu_form2 .right .order-summary ul li{font-size:14px;}
+	#my-account.manageResturantmenu  .account-details table tr td{height:48px !important}
+	#my-account.manageplan .account-details .menu .description .title h4{text-align:left;}
+	#my-account.manageplan .account-details .menu .description .title h4 span{font-size:20px;}
+	#my-account.manageplan .account-details .menu .description .checkbox label, #my-account.manageplan .account-details .menu .description{text-align:left;}
+	#my-account.manageplan .account-details .menu .description.total .title h4, #my-account.manageplan .account-details .menu .description.total .title h4 span{font-size:20px;}
+	#my-account.manageplan .account-details .menu .description .checkbox input[type="checkbox"]{width:15px; height:15px;}
+	html.translated-ltr .col-md-4.social-links{width:100%;}
+	html.translated-ltr footer .col-md-4.middle-part{width:100%;}
+	html.translated-ltr footer .col-md-4.right-part{width:100%;}
+	#my-account .account-details  .menu figure{float:none; display:inline-block}
+	#my-account .account-menu h3, #my-account.manageResturant .account-details h3, #my-account .account-details h3,.logincredential .login-area h2{font-size:19px;}
+	#s_detail_header a.logo{height:40px; width:200px;}
+	#s_detail_header a.logo img{width:auto !important; height:100%; max-width:100%;}
+	
+	/* .post_detail.menu_excerpt{margin-left:75px; width:calc(100% - 75px)} */
+	/* 23 March */
+	
+	#home-middle-part .left, #home-middle-part .right{width:100%; margin:0; border-right:0}
+	#blackLogo, #whiteLogo{margin-top:0}
+	.toggleMenu{margin-top:5px}
+	.home section.fheight{background-position: 71% 0px !important;/*  height:auto !important;  */ padding-top:0px !important;}
+	#home-middle-part h1{padding-bottom:0}
+	#my-account .account-details .menu .description .title h4{width:100%;}
+	
+	#my-account .account-details a.preview-dish{margin: 8px 0; padding:7px 20px; margin-right:15px;}
+	#my-account .account-menu h3, #my-account.manageResturant .account-details h3, #my-account .account-details h3, .logincredential .login-area h2{width:100%;}
+.switcher{margin-top:5px;}
+
+
+.headerContact ul li{width:auto;}
+.headerContact ul li a{padding-left:0; width:33px;}
+.headerContact ul li:first-child a{width:27px;}
+
+#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:185px; height:185px; object-position: center center;  object-fit: cover;}
+
+#entrantes .food-gallery ul li h3{font-size:14px; line-height:20px}
+
+.star-ratings-sprite{ background-size: 30px !important;width: 150px !important;height: 30px !important; margin-top: 2px !important;}
+.star-ratings-sprite-rating{background-size: 30px!important; height: 30px!important;}
+
+
+ .rating-static{    background-size: 260px !important; width: 130px !important; height: 23px !important;}
+ .rating-50 { background-position: 0px 0 !important;}
+ .rating-40 { background-position: -25px 0 !important;}
+ .rating-30{background-position: -50px 0 !important;}
+ .rating-20 { background-position: -80px 0 !important;}
+ .rating-10 { background-position: -105px 0 !important;}
+ .comment-box .right div.title{font-size:18px}
+ .comment-box ul li{margin-top:30px}
+ 
+ #entrantes .food-gallery.list ul li, #entrantes .food-gallery.list ul li figure, #entrantes .food-gallery.list ul li .content{height:200px;}
+ #entrantes .food-gallery ul li{margin-bottom:15px}
+ 
+ .modal-body .food-detail .pr .left {
+    width: calc(100% - 100px);
+}
+.modal-body .food-detail .pr .right{width:80px}
+
+.switcher ul li a{padding:5px 5px 3px 5px;}
+.switcher ul li img{width:35%;}
+#category ul{padding:0;}
+.modal-body .food-detail, .modal-body .food-desc{padding:0 15px;}
+.modal-body .food-desc .pr .left{width:60%;}
+.modal-body .food-desc .pr .right{width:40%;}
+.chartGraph{width:100%; overflow-x:scroll; overflow-y:hidden;}
+.chartGraph svg{width:100%;}
+.deactiveColor, .activeColor{width:100%; margin-top:10px;}
+.dl{border-right:0;}
+.input-daterange{text-align:left;}
+#my-account .account-details .wrapped select{width:100%; margin-top:10px;}
+#dishCount .dishFood, #dishCount .visitor{width:50%; float:left;}
+.input-daterange{clear:both; float:none!important;}
+#date-range-field{float:left!important;}
+.input-daterange #date-range, .input-daterange button[type="button"]{display:inline;}
+#datepicker-calendar{overflow-x:scroll!important; width:100%!important; overflow-y:hidden!important;}
+.modal-body .food-desc .pr .left, .modal-body .food-desc .pr .right{width:100%;}
+
+
+.hd-heading{float:left; width:100%; margin-top:20px}
+.hd-heading .heads{float:left; width:58%}
+.hd-heading .heads1{float:right; width:40%; text-align:center}
+.dishFood ul{list-style:none; margin:0; padding:0}
+.dishFood ul li{padding:5px 5px !important; box-sizing:border-box;line-height:25px; float:left; width:100%;}
+.dishFood ul li .p_name{width:58%; float:left;}
+.dishFood ul li .visitor{width:40%; float:right; text-align:center}
+.dishFood ul li:nth-child(even){background:#eee;}
+.dishFood ul li:nth-child(odd){background:#fff;}
+
+#dishRatingMob .dishFood ul li .p_name{width:54%; float:left;}
+#dishRatingMob .dishFood ul li .visitor{width:44%; float:right; text-align:center}
+#dishRatingMob .star-ratings-sprite-myaccount{margin-bottom:0;}
+
+
+
+#datepicker-calendar{height:165px !important}
+
+
+
+
+.wp .list{float:left; width:33.33%; text-align:center}
+.dishFood .wpm span{display:block; text-align:center; padding:0px 3px; box-sizing:border-box; margin-left:0}
+
+/*.modal-content button.close{position: fixed !important;
+    right: -2px!important;
+    top: 18px!important;
+    color: #fff!important;
+    background: #000;
+    font-size: 13px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0; text-transform:uppercase }
+	*/
+	
+	.fixed{position:fixed ; top:0; background:#fff !important; padding:10px 0 0px !important}
+header#masthead.fixed .container{padding-bottom:0px !important}
+	.toggleMenu{padding:4px 15px}
+	
+}
+
+
+@media only screen and (max-width:767px) and (orientation:landscape){
+	#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:245px; height:245px;}
+}
+
+
+
+
+@media only screen and (max-width:479px){
+	footer .right-part ul li a, footer .middle-part p{font-size:11px;}
+	#login .login-form label{font-size:17px;}
+	section#cdm .headings a.btn{font-size:17px;}
+	section#cdm .video-section iframe{height:240px !important}
+	footer .right-part ul li{padding:0px 5px;}
+	.contact-number a{display:block}
+	section#home .inner-cell .headings h2 span:first-child::before{padding:2px 14px}
+	.digital_menu_form2 .expiry select{width:100px;}
+	.cvv{height:46px;}
+	
+	.modal-body .food-detail p, .modal-body .food-detail .pr .left ul li{font-size:16px; line-height:22px}
+	
+	.comment-box .right div.like-icon, .comment-box .right div.title{float:left; width:100%; margin-bottom:5px}
+	.fooBar .submitbtn{font-size:12px}
+	
+	
+	
+	
+.star-ratings-sprite{ background-size: 22px !important;width: 110px !important;height: 20px !important; margin-top: 2px !important;}
+.star-ratings-sprite-rating{background-size: 22px!important; height: 20px!important;}
+
+
+
+ 
+ .comment_form .stars label{width:22px; height:22px;}
+ .comment_form .stars{background-size:22px; width:110px; height:22px;}
+ 
+ .modal-body .sharing .right ul li img, .modal-body .food-detail .pr .right ul li img{max-width:25px}
+ 
+	 .modal-body .food-detail .pr .left {
+    width: calc(100% - 80px);
+}
+.modal-body .food-detail .pr .right{width:70px}
+#header .headerRight .headerContact ul li{width:auto; margin:0 4px !important}
+
+#entrantes .food-gallery.list ul li, #entrantes .food-gallery.list ul li figure, #entrantes .food-gallery.list ul li .content{height:180px;}
+#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:160px; height:160px}
+#dishCount .dishFood, #dishCount .visitor{width:100%; float:none;}
+#date-range{margin-bottom:10px;}
+#Asia/Kolkata{width:100%!important;}
+.input-daterange{text-align:center;}
+#date-range-field{float:none!important; margin:auto; width:100%!important;}
+.input-daterange #date-range, .input-daterange button[type="button"]{margin:10px auto 0; width:100%;}
+
+}
+@media only screen and (max-width:420px){
+
+#entrantes .food-gallery.list ul li, #entrantes .food-gallery.list ul li figure, #entrantes .food-gallery.list ul li .content{height:160px;}
+#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:140px; height:140px}
+}
+@media only screen and (max-width:360px){
+
+#entrantes .food-gallery.list ul li, #entrantes .food-gallery.list ul li figure, #entrantes .food-gallery.list ul li .content{height:130px;}
+#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:135px; height:135px}
+#date-range-field{width:100%!important;}
+}
+
+@media only screen and (min-width:360px) and (max-width:640px){ 
+#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:155px; height:155px}
+}
+
+@media only screen and (min-width:375px) and (max-width:667px){ 
+#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:160px; height:160px}
+}
+@media only screen and (min-width:412px) and (max-width:732px){ 
+#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:180px; height:180px}
+}
+@media only screen and (min-width:414px) and (max-width:736px){ 
+#entrantes .food-gallery ul li, #entrantes .food-gallery ul li figure img{width:180px; height:180px}
+}
+

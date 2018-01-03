@@ -1,0 +1,67 @@
+.addjob{
+	background-color:#0074A2;
+	width: 54%;
+	margin-top:40px;
+}
+.addjob td{
+	background-color:#fff;
+	padding:10px;
+}
+.addjob th{
+	
+	color:#fff;
+	padding:10px;
+}
+.addjob td input[type="text"]{
+    border: 1px solid #D6DBE1;
+    border-radius: 3px;
+    float: left;
+    height: 30px;
+    line-height: 15px;
+    padding: 0 0 0 5px;
+    width: 95%;
+}
+.addjob td textarea{
+	border: 1px solid #CCCCCC;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px #DDDDDD inset, 0 1px 0 #FFFFFF;
+    float: left;
+    min-height: 60px;
+    padding: 5px;
+    resize: none;
+    width: 95%;
+}
+.buttons{
+	background: none repeat scroll 0 0 #1A5779;
+    border: 0 none;
+    border-radius: 3px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 13px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.listjob{
+	background-color:#0074A2;
+	width: 70%;
+	margin-top:40px;
+}
+.listjob th{
+	background-color:#fff;
+	padding:10px;
+}
+.listjob td{
+	background-color:#fff;
+	padding:10px;
+	text-align: center;
+}
+.successCuision{text-align: center;
+    color: #fff;
+    margin: 0 auto;
+    background: green;
+    width: 50%;
+    padding: 5px;
+    border-radius: 6px;
+    margin-top: 10px;
